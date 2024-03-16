@@ -20,7 +20,7 @@ https://github.com/jzhang38/TinyLlama
 We adopted exactly the same architecture and tokenizer as Llama 2. This means TinyLlama can be plugged and played in many open-source projects built upon Llama. Besides, TinyLlama is compact with only 1.1B parameters. This compactness allows it to cater to a multitude of applications demanding a restricted computation and memory footprint.
 
 #### This Model
-In this repo, we release our TinyLlama training only with 2T tokens on SlimPajama dataset. (~3 epochs)
+In this repo, we release our TinyLlama-v2 training only with 2T tokens on SlimPajama dataset. (~3 epochs)
 
 #### How to use
 You will need the transformers>=4.31
