@@ -28,7 +28,7 @@ We adopted exactly the same architecture and tokenizer as Llama 2. This means Ti
 
 In this project, rather than only training a single TinyLlama model, we first train TinyLlama on a corpus of 1.5 trillion tokens to obtain foundational language capabilities. Subsequently, we take this model and turn it into three different models by continual pre-training with three distinct data sampling. For a visual representation of this process, please refer to the figure below.
 
-![image-20240401225128124](/Users/zengguangtao/Library/Application Support/typora-user-images/image-20240401225128124.png)
+![image-20240401225128124](overview.png)
 
 ### Pretraining
 
