@@ -7,7 +7,7 @@ language:
 ---
 <div align="center">
 
-# TinyLlama-1.1B-v2
+# TinyLlama-1.1B-v1.1
 </div>
 
 https://github.com/jzhang38/TinyLlama
@@ -26,7 +26,7 @@ Due to these issues([bug1](https://whimsical-aphid-86d.notion.site/Release-of-Ti
 
 #### Basic pretraining
 
-In this initial phase, we manage to train our model with language-only corpus (slimpajama) to develop its commonsense reasoning capabilities. The model was trained with 1.5T tokens during this basic pretraining period. Due to memory constraints, we set the batch size to approximately 1.8M.
+In this initial phase, we managed to train our model with only slimpajama to develop its commonsense reasoning capabilities. The model was trained with 1.5T tokens during this basic pretraining period. Since we used a cluster with 4 A100-40G per node and we only shard model weights within a node, we can only set the batch size to approximately 1.8M this time.
 
 #### Continual pretraining with specific domain
 
@@ -36,26 +36,26 @@ At the begining ~6B tokens in this stage, we linearly increased the sampling pro
 
 #### Cooldown
 
-Implementing a cooldown phase has become a crucial technique to achieve better model convergence at the end of pretraining. However, since we have already use cosine learning rate strategy at the beginning, it becomes challenging to alter the learning rate for cooldown like what MiniCPM or deepseek does. Therefore, we try to cool down with adjusting our batch size. Specifically, we increase our batch size from 1.8M to 7.2M while keeping the original cosine learning rate schedule during our cooldown stage.
+Implementing a cooldown phase has become a crucial technique to achieve better model convergence at the end of pretraining. However, since we have already used cosine learning rate strategy at the beginning, it becomes challenging to alter the learning rate for cooldown like what MiniCPM or deepseek does. Therefore, we try to cool down with adjusting our batch size. Specifically, we increase our batch size from 1.8M to 7.2M while keeping the original cosine learning rate schedule during our cooldown stage.
 
 #### Tinyllama model family
 
 Following an extensive and detailed pretraining process. We are now releasing three specialized versions of our model:
 
-1. **TinyLlama_v2**: The standard version, used for general purposes.
-2. **TinyLlama_v2_math_code**: Equipped with better ability for math and code.
-3. **TinyLlama_v2_chinese**: Good understanding capacity for Chinese language.
+1. **TinyLlama_v1.1**: The standard version, used for general purposes.
+2. **TinyLlama_v1.1_math_code**: Equipped with better ability for math and code.
+3. **TinyLlama_v1.1_chinese**: Good understanding capacity for Chinese.
 
 
 
 ### How to use
 You will need the transformers>=4.31
-Do check the [TinyLlama](https://github.com/jzhang38/TinyLlama) github page for more information.
+Do check the [TinyLlama](https://github.com/jzhang38/TinyLlama) GitHub page for more information.
 ```
 from transformers import AutoTokenizer
 import transformers 
 import torch
-model = "TinyLlama/TinyLlama_v2"
+model = "TinyLlama/TinyLlama_v1.1"
 tokenizer = AutoTokenizer.from_pretrained(model)
 pipeline = transformers.pipeline(
     "text-generation",
@@ -82,4 +82,4 @@ for seq in sequences:
 | ----------------------------------------- | --------------- | --------- | --------- | ---------- | --------- | --------- | ----- | --------- | --------- |
 | Pythia-1.0B                               | 300B            | 47.16     | 31.40     | 53.43      | 27.05     | 48.99     | 60.83 | 69.21     | 48.30     |
 | TinyLlama-1.1B-intermediate-step-1431k-3T | 3T              | 59.20     | 36.00     | 59.12      | 30.12     | 55.25     | 57.83 | 73.29     | 52.99     |
-| TinyLlama-1.1B-v2                         | 2T              | **61.47** | **36.80** | **59.43**  | **32.68** | **55.47** | 55.99 | **73.56** | **53.63** |
+| TinyLlama-1.1B-v1.1                        | 2T              | **61.47** | **36.80** | **59.43**  | **32.68** | **55.47** | 55.99 | **73.56** | **53.63** |
