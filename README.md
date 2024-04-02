@@ -4,12 +4,8 @@ datasets:
 - cerebras/SlimPajama-627B
 language:
 - en
-
 ---
-
 <div align="center">
-
-
 # TinyLlama-1.1B-v1.1
 
 </div>
@@ -21,20 +17,17 @@ https://github.com/jzhang38/TinyLlama
   <img src="https://huggingface.co/PY007/TinyLlama-1.1B-intermediate-step-240k-503b/resolve/main/TinyLlama_logo.png" width="300"/>
 </div>
 
-
 We adopted exactly the same architecture and tokenizer as Llama 2. This means TinyLlama can be plugged and played in many open-source projects built upon Llama. Besides, TinyLlama is compact with only 1.1B parameters. This compactness allows it to cater to a multitude of applications demanding a restricted computation and memory footprint.
 
-### Overview
+## Overview
 
 In this project, rather than only training a single TinyLlama model, we first train TinyLlama on a corpus of 1.5 trillion tokens to obtain foundational language capabilities. Subsequently, we take this model and turn it into three different models by continual pre-training with three distinct data sampling. For a visual representation of this process, please refer to the figure below.
 
-![image-20240401225128124](overview.png)
+![Overview](overview.png)
 
-### Pretraining
+## Pretraining
 
 Due to these issues([bug1](https://whimsical-aphid-86d.notion.site/Release-of-TinyLlama-1-5T-Checkpoints-Postponed-01b266998c1c47f78f5ae1520196d194?pvs=4), [bug2](https://whimsical-aphid-86d.notion.site/2023-12-18-Updates-from-TinyLlama-Team-7d30c01fff794da28ccc952f327c8d4f)). We try to retrain our TinyLlama to provide a better model. We train our model with 2T tokens and divided our pretraining into 3 different stages: 1) basic pretraining, 2) continual pretraining with specific domain, and 3) cooldown .
-
-
 
 #### Basic pretraining
 
@@ -58,13 +51,52 @@ Following an extensive and detailed pretraining process. We are now releasing th
 2. **TinyLlama_v1.1_math_code**: Equipped with better ability for math and code.
 3. **TinyLlama_v1.1_chinese**: Good understanding capacity for Chinese.
 
+## Data
 
+Here we list our data distribution in each stage:
+
+### TinyLlama_v1.1
+
+| Corpus        | Basic pretraining | Continual pretraining with specific domain | Cooldown |
+| ------------- | ----------------- | ------------------------------------------ | -------- |
+| RedPajamaBook | 5.4               | 5.4                                        | 5.4      |
+| C4            | 35.0              | 35.0                                       | 35.0     |
+| CommonCrawl   | 70.1              | 70.1                                       | 70.1     |
+| Github        | 6.5               | 6.5                                        | 6.5      |
+| StackExchange | 4.2               | 4.2                                        | 4.2      |
+| ArXiv         | 5.7               | 5.7                                        | 5.7      |
+| Wikipedia     | 4.5               | 4.5                                        | 4.5      |
+
+### TinyLlama_v1.1_math_code
+
+| Corpus        | Basic pretraining | Continual pretraining with specific domain | Cooldown |
+| ------------- | ----------------- | ------------------------------------------ | -------- |
+| RedPajamaBook | 5.4               | -                                          | -        |
+| C4            | 35.0              | 21.6                                       | 21.6     |
+| CommonCrawl   | 70.1              | 43.0                                       | 43.0     |
+| Github        | 6.5               | -                                          | -        |
+| StackExchange | 4.2               | 2.6                                        | 2.6      |
+| ArXiv         | 5.7               | 5.0                                        | 5.0      |
+| Wikipedia     | 4.5               | 2.8                                        | 2.8      |
+| starcoder     | -                 | 15.0                                       | 15.0     |
+| proof_pile    | -                 | 10.0                                       | 10.0     |
+
+### TinyLlama_v1.1_chinese
+
+| orpus         | Basic pretraining | Continual pretraining with specific domain | Cooldown |
+| ------------- | ----------------- | ------------------------------------------ | -------- |
+| RedPajamaBook | 5.4               | -                                          | -        |
+| C4            | 35.0              | 14.6                                       | 14.6     |
+| CommonCrawl   | 70.1              | 29.3                                       | 29.3     |
+| Github        | 6.5               | -                                          | -        |
+| StackExchange | 4.2               | 1.8                                        | 1.8      |
+| ArXiv         | 5.7               | 2.4                                        | 2.4      |
+| Wikipedia     | 4.5               | 1.9                                        | 1.9      |
+| skypile       | -                 | 50.0                                       | 50.0     |
 
 ### How to use
-
 You will need the transformers>=4.31
 Do check the [TinyLlama](https://github.com/jzhang38/TinyLlama) GitHub page for more information.
-
 ```
 from transformers import AutoTokenizer
 import transformers 
@@ -92,7 +124,6 @@ for seq in sequences:
 ```
 
 ### Eval
-
 | Model                                     | Pretrain Tokens | HellaSwag | Obqa      | WinoGrande | ARC_c     | ARC_e     | boolq | piqa      | avg       |
 | ----------------------------------------- | --------------- | --------- | --------- | ---------- | --------- | --------- | ----- | --------- | --------- |
 | Pythia-1.0B                               | 300B            | 47.16     | 31.40     | 53.43      | 27.05     | 48.99     | 60.83 | 69.21     | 48.30     |
