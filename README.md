@@ -59,25 +59,13 @@ Here we list our data distribution in each stage:
 
 | Corpus        | Basic pretraining | Continual pretraining with specific domain | Cooldown |
 | ------------- | ----------------- | ------------------------------------------ | -------- |
-| RedPajamaBook | 5.4               | 5.4                                        | 5.4      |
-| C4            | 35.0              | 35.0                                       | 35.0     |
-| CommonCrawl   | 70.1              | 70.1                                       | 70.1     |
-| Github        | 6.5               | 6.5                                        | 6.5      |
-| StackExchange | 4.2               | 4.2                                        | 4.2      |
-| ArXiv         | 5.7               | 5.7                                        | 5.7      |
-| Wikipedia     | 4.5               | 4.5                                        | 4.5      |
+| Slimpajama | 100.0              | 100.0                                       | 100.0      |
 
 ### TinyLlama_v1.1_math_code
 
 | Corpus        | Basic pretraining | Continual pretraining with specific domain | Cooldown |
 | ------------- | ----------------- | ------------------------------------------ | -------- |
-| RedPajamaBook | 5.4               | -                                          | -        |
-| C4            | 35.0              | 21.6                                       | 21.6     |
-| CommonCrawl   | 70.1              | 43.0                                       | 43.0     |
-| Github        | 6.5               | -                                          | -        |
-| StackExchange | 4.2               | 2.6                                        | 2.6      |
-| ArXiv         | 5.7               | 5.0                                        | 5.0      |
-| Wikipedia     | 4.5               | 2.8                                        | 2.8      |
+| Slimpajama | 100.0              | 75.0                                         | 75.0        |
 | starcoder     | -                 | 15.0                                       | 15.0     |
 | proof_pile    | -                 | 10.0                                       | 10.0     |
 
@@ -85,13 +73,7 @@ Here we list our data distribution in each stage:
 
 | orpus         | Basic pretraining | Continual pretraining with specific domain | Cooldown |
 | ------------- | ----------------- | ------------------------------------------ | -------- |
-| RedPajamaBook | 5.4               | -                                          | -        |
-| C4            | 35.0              | 14.6                                       | 14.6     |
-| CommonCrawl   | 70.1              | 29.3                                       | 29.3     |
-| Github        | 6.5               | -                                          | -        |
-| StackExchange | 4.2               | 1.8                                        | 1.8      |
-| ArXiv         | 5.7               | 2.4                                        | 2.4      |
-| Wikipedia     | 4.5               | 1.9                                        | 1.9      |
+| Slimpajama | 100.0               | 50.0                                            | 50.0          |
 | skypile       | -                 | 50.0                                       | 50.0     |
 
 ### How to use
