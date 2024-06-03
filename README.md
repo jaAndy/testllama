@@ -35,7 +35,7 @@ In this initial phase, we managed to train our model with only slimpajama to dev
 
 #### Continual pretraining with specific domain
 
-We incorporated 3 different kinds of corpus during this pretraining, slimpajama (which is the same as the first phase), Code&Math (starcoder and proof pile), and Chinese (Skypile). This approach allowed us to develop three variant models with specialized capabilities.
+We incorporated 3 different kinds of corpus during this pretraining, slimpajama (which is the same as the first phase), Math&Code (starcoder and proof pile), and Chinese (Skypile). This approach allowed us to develop three variant models with specialized capabilities.
 
 At the begining ~6B tokens in this stage, we linearly increased the sampling proportion for the domain-specific corpus (excluding Slimpajama, as it remained unchanged compared with stage 1). This warmup sampling increasing strategy was designed to gradually adjust the distribution of the pretraining data, ensuring a more stable training process. After this sampling increasing stage, we continued pretraining the model with stable sampling strategy until reaching ~1.85T tokens.
 
@@ -48,8 +48,8 @@ Implementing a cooldown phase has become a crucial technique to achieve better m
 Following an extensive and detailed pretraining process. We are now releasing three specialized versions of our model:
 
 1. **TinyLlama_v1.1**: The standard version, used for general purposes.
-2. **TinyLlama_v1.1_math_code**: Equipped with better ability for math and code.
-3. **TinyLlama_v1.1_chinese**: Good understanding capacity for Chinese.
+2. **TinyLlama_v1.1_Math&Code**: Equipped with better ability for math and code.
+3. **TinyLlama_v1.1_Chinese**: Good understanding capacity for Chinese.
 
 ## Data
 
