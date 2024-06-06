@@ -5,13 +5,11 @@ datasets:
 language:
 - en
 ---
-<div align="center">
+
 # TinyLlama-1.1B-v1.1
 
-</div>
-
-https://github.com/jzhang38/TinyLlama
-
+- **Codebase:** [github.com/jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama)
+- **Technical Report:** [arxiv.org/pdf/2401.02385](https://arxiv.org/pdf/2401.02385) 
 
 <div align="center">
   <img src="https://huggingface.co/PY007/TinyLlama-1.1B-intermediate-step-240k-503b/resolve/main/TinyLlama_logo.png" width="300"/>
@@ -110,4 +108,6 @@ for seq in sequences:
 | ----------------------------------------- | --------------- | --------- | --------- | ---------- | --------- | --------- | ----- | --------- | --------- |
 | Pythia-1.0B                               | 300B            | 47.16     | 31.40     | 53.43      | 27.05     | 48.99     | 60.83 | 69.21     | 48.30     |
 | TinyLlama-1.1B-intermediate-step-1431k-3T | 3T              | 59.20     | 36.00     | 59.12      | 30.12     | 55.25     | 57.83 | 73.29     | 52.99     |
-| TinyLlama-1.1B-v1.1                       | 2T              | **61.47** | **36.80** | **59.43**  | **32.68** | **55.47** | 55.99 | **73.56** | **53.63** |
+| TinyLlama-1.1B-v1.1                       | 2T              | **61.47** | **36.80** | 59.43  | 32.68 | **55.47** | 55.99 | **73.56** | 53.63 |
+| TinyLlama-1.1B-v1.1                       | 2T              | 60.80 | 36.40 | **60.22**  | **33.87** | 55.20 | 57.09 | 72.69 | **53.75** |
+| TinyLlama-1.1B-v1.1                       | 2T              | 58.23 | 35.20 | 59.27  | 31.40 | 55.35 | **61.41** | 73.01 | 53.41 |
