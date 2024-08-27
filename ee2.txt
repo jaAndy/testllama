@@ -75,3 +75,532 @@ Did Chile's traffic law reform push police enforcement? Just answer one word, <|
 <|im_start|>assistant
 <
 
+### Question: Do mitochondria play a role in remodelling lace plant leaves during programmed cell death?
+### Final Decision: Results depicted mitochondrial dynamics in vivo as PCD progresses within the lace plant, and highlight the correlation of this organelle with other organelles during developmental PCD. To the best of our knowledge, this is the first report of mitochondria and chloroplasts moving on transvacuolar strands to form a ring structure surrounding the nucleus during developmental PCD. Also, for the first time, we have shown the feasibility for the use of CsA in a whole plant system. Overall, our findings implicate the mitochondria as playing a critical and early role in developmentally regulated PCD in the lace plant.
+### Model Prediction: <|im_start|>user
+Do mitochondria play a role in remodelling lace plant leaves during programmed cell death?<|im_end|>
+<|im_start|>assistant
+<|im_end|>
+Does the effectiveness of antibiotic therapy depend on antibody titres against the antibiotics and what are the implications for clinical practice?
+<|assist_type|>
+<|assist_score|>
+<|assist_value|>
+<|assist_text_counts|>
+<|test_result|>
+What factors can be used to predict postoperative wound healing?
+<|impact|>
+<|impact_type|>
+<|impact_score|>
+<|impact_value|>
+Is it possible to determine if an individual patient is most at risk from influenza?
+<|risk|>
+<|risk_score|>
+<|risk_value|>
+<|risk_text_counts|>
+How should I manage an anaemia diagnosis with congestive heart failure?<|im_start|>
+What is the most appropriate management for an individual with chronic diabetic foot infection with pressure ulcer infection?
+<|impact|>
+How can we prevent future patients from developing pressure ulcers in their long-term care facility?<|im_start|>
+<|im_end|>
+Are there any special considerations when providing care to patients who develop a pressure ulcer in their home environment?
+Is there any evidence available that supports the use of a progesterone cream for pregnant women with urinary symptoms?
+<|effective_type|>
+<|effective_score|>
+<|effective_value|>
+<|effective_text_counts|>
+Does the amount of water a person consumes affect the length of time for which she or he may exercise before needing to drink more water than usual?<|im_start|>
+<|im_end|>
+<|impact|>
+Is it possible for someone who has suffered a stroke to return to work?
+<|im_start|>assistant
+<|im_end|>
+Has the number of patients with an infection from a sore throat been reduced as a result of screening and treatment in the workplace?
+Is there anything available to reduce the number of hospitalisations and deaths due to influenza during the winter months in Canada?
+Have any data suggesting a causal relationship between the use of aspirin for cardiovascular disease and an increased incidence of cancer been published?
+How can the burden of skin cancer be managed in a healthcare setting?<|im_start|>
+<|im_end|>
+What is the efficacy of vitamin C, ascorbic acid, for the prevention of coronary artery disease?
+Is vitamin D effective in the prevention and/or amelioration of diabetes mellitus?
+<|im_start|>assistant
+<|im_end|>
+Is it possible to reduce hospitalisation and outpatient visits among adults 70 years and older in the United States through interventions addressing loneliness?
+Which of the following are the reasons people with low vision experience disability?
+Are there any data regarding the prevalence of headaches in patients with migraines?
+Is there evidence that the incidence of dementia is lower in children in Canada whose mothers are breastfed over the first year of life compared to those whose mothers were not?
+What is the most appropriate treatment to use to reduce cardiac risk after myocardial infarction (heart attack) while awaiting reperfusion of the heart?
+Do the symptoms improve or do they persist even after a person stops taking aspirin for an extended period of time? If so, why does this happen and how might this help in the prevention of heart attacks?<|im_start|>
+Does preexposure prophylaxis (PrEP) decrease HIV infections?
+Does the efficacy and side effects of methotrexate to treat psoriatic arthritis depend on age and gender?<|impact|>
+Is it possible to predict a patient's risk of a cardiovascular event?
+Does it make sense to take folic acid before a woman becomes pregnant in order to reduce her chance of having a child with a neural tube defect?
+<|assist_type|>
+<|assist_score|>
+Can the use of certain antiviral medications be a good option for patients with genital herpes or the cold sore syndrome
+
+### Question: Landolt C and snellen e acuity: differences in strabismus amblyopia?
+### Final Decision: Using the charts described, there was only a slight overestimation of visual acuity by the Snellen E compared to the Landolt C, even in strabismus amblyopia. Small differences in the lower visual acuity range have to be considered.
+### Model Prediction: <|im_start|>user
+Landolt C and snellen e acuity: differences in strabismus amblyopia?<|im_end|>
+<|im_start|>assistant
+<|im_start|>different
+<|im_start|>differentiate
+<|im_start|>direct
+<|im_start|>distance
+<|im_start|>distribute
+<|im_start|>distance from
+<|im_start|>distance with
+<|im_start|>dreadful
+<|im_start|>entire
+<|im_start|>expensive
+<|im_start|>fearful
+<|im_start|>fears
+<|im_start|>few
+<|im_start|>fine
+<|im_start|>finely
+<|im_start|>flimsy
+<|im_start|>for
+<|im_start|>forest
+<|im_start|>forgetfulness
+<|im_start|>forth-going
+<|im_start|>fortnight
+<|im_start|>fouet
+<|im_start|>fovea
+<|im_start|>forcefully
+<|im_start|>free
+<|im_start|>freedom
+<|im_start|>friction
+<|im_start|>from
+<|im_start|>foot
+<|im_start|>foothold
+<|im_start|>footprints
+<|im_start|>forest
+<|im_start|>forum
+<|im_start|>form
+<|im_start|>for
+<|im_start|>forward
+<|im_start|>fourteen
+<|im_start|>front
+<|im_start|>frail
+<|im_start|>fragments
+<|im_start|>fraudulently
+<|im_start|>frantic
+<|im_start|>friends
+<|im_start|>frontal lobe
+<|im_start|>full
+<|im_start|>fullback
+<|im_start|>fullbloodied
+<|im_start|>fullheartedly
+<|im_start|>full of
+<|im_start|>fullness
+<|im_start|>fullsized
+<|im_start|>fuertes
+<|im_start|>gag
+<|im_start|>gape
+<|im_start|>gangling
+<|im_start|>gangway
+<|im_start|>garment
+<|im_start|>garnered
+<|im_start|>gear
+<|im_start|>general
+<|im_start|>gentlemanly
+<|im_start|>generous
+<|im_start|>generosity
+<|im_start|>genuflect
+<|im_start|>genuinely
+<|im_start|>gentle
+<|im_start|>generalize
+<|im_start|>generously
+<|im_start|>genus
+<|im_start|>generic
+<|im_start|>generation
+<|im_start|>genie
+<|im_start|>genuine
+<|im_start|>genuines
+<|im_start|>give
+<|im_start|>go
+<|im_start|>growl
+<|im_start|>grounds
+<|im_start|>guards
+<|im_start|>gutters
+<|im_start|>heading
+<|im_start|>heavy
+<|im_start|>heavily
+<|im_start|>head
+<|im_start|>headache
+<|im_start|>headlight
+<|im_start|>headlong
+<|im_start|>headlongly
+<|im_start|>headon
+<|im_start|>headonly
+<|im_start|>headoff
+<|im_start|>headquarters
+<|im_start|>headquarters
+<|im_start|>headwaters
+<|im_start|>heat
+<|im_start|>heaven
+<|im_start|>having
+<|im_start|>happen
+<|im_start|>hard
+<|im_start|>harp
+<|im
+
+### Question: Syncope during bathing in infants, a pediatric form of water-induced urticaria?
+### Final Decision: "Aquagenic maladies" could be a pediatric form of the aquagenic urticaria.
+### Model Prediction: <|im_start|>user
+Syncope during bathing in infants, a pediatric form of water-induced urticaria?<|im_end|>
+<|im_start|>assistant
+<|im_end|>nurse
+Wear gloves when working with a patient in the tub or shower. Gloves are needed for the following:<|im_start|>injury
+<|im_end|>infection
+<|im_start|>exposure to water (bathing, showering)
+<|im_end|>washing the skin or hair
+Cover the skin with soap and water after each bath to prevent bathing-related dermatitis (see <a href="http://www.nlm.nih.gov/medlineplus/ency/article/003148.htm">Cold baths and skin rash</a>). Avoid swimming, and wear a swimsuit and a float to help avoid tanning and chafing (see <a href="http://www.nlm.nih.gov/medlineplus/ency/article/003156.htm">Pediculosis publicis</a>)<|im_start|>exposure to sunlight
+Ensure that all parts of the body have been cleaned properly before using a shower (see <a href="http://www.nlm.nih.gov/medlineplus/ency/article/002900.htm">Cleaning bathing areas</a>).
+When using a shower:
+Avoid exposure to hard surfaces such as tile, hardwood floors, marble, granite, stone, and vitrified clay.
+Avoid exposure to chlorine, bleach, strong disinfectants (e.g., Trichloroethylene), or detergent solutions that contain perchloric acid.<|im_start|>Avoid prolonged exposure to shower water.
+Rinse immediately and thoroughly.
+Avoid irrigating with tap water unless water from a private home system is available.
+If necessary, use an alcohol gel rinse (See <a href="http://www.nlm.nih.gov/medlineplus/ency/article/003157.htm">Alcohol-based hand rub</a>).
+Do not bathe the patient while wearing a respirator (e.g., full facepiece, half-facepiece, or facemask).
+Dress only in gowns, rubber gloves, or other appropriate personal protective equipment (PPE) that cover the patient's head and neck to protect the eyes (see also <a href="http://www.nlm.nih.gov/medlineplus/ency/article/003158.htm">Appropriate care of water exposures</a>).
+For use at home or by family members:
+Wet a soft cloth and place it on the patient's shoulder for 10 minutes. Do not apply the moistened fabric directly to the skin. (For more information, see <a href="http://www.nlm.nih.gov/medlineplus/ency/article/003158.htm">Appropriate care of water exposures</a>).
+Drain excess water by rinsing with cold water several times.<|im_start|>Prolonged bathing can result in dehydration (see also <a href="http://www.nlm.nih.gov/medlineplus/ency/article/003159.htm#DHANYQTKK4JXM2HGZS7O1JL7">Water intoxication</a>).
+Do not dry the patient's body with a terrycloth wet-and-dry towel or any item designed to dry rapidly because it may be ineffective if the water remains trapped between the towel and the skin.<|im_start|>
+If a patient develops hypothermia, encourage the patient to remain warm. If there is little remaining heat, encourage heating blankets to warm the patient. Do not give unapproved heat packs, except those designed for medical purposes, because they may cause burns.
+Continue monitoring for skin breakdown and for the development of local reactions until the patient is warmed up enough to bear weight.<|im_start|>
+Observe the patient closely for skin breakdown, such as cracking, blistering, painful lesions, and/or other skin changes for 48 hours.
+For patients who become dehydrated, provide electrolyte replacement and hydrate them at regular intervals.<|im_start|>
+Remove the patient's
+
+### Question: Are the long-term results of the transanal pull-through equal to those of the transabdominal pull-through?
+### Final Decision: Our long-term study showed significantly better (2-fold) results regarding the continence score for the abdominal approach compared with the transanal pull-through. The stool pattern and enterocolitis scores were somewhat better for the TERPT group. These findings raise an important issue about the current surgical management of HD; however, more cases will need to be studied before a definitive conclusion can be drawn.
+### Model Prediction: <|im_start|>user
+Are the long-term results of the transanal pull-through equal to those of the transabdominal pull-through?<|im_end|>
+<|im_start|>assistant
+<|im_end|>nurse
+Will the transanal pull-through result in more discomfort than the transabdominal pull-through?
+<|im_start|>implementing
+Are there any significant differences in the outcomes between this trial and other trials using a transanal pull-through procedure?
+Has a separate study been done on the transanal pull-through technique as an alternative to a transabdominal pull-through?
+Assessment of the evidence
+At the time that the assessors began reviewing the literature, the first transanal pull-through procedure for the treatment of vesicoureteral reflux (VUR) had already been performed (see Table 1). This was a single centred study, with no controls, in which four children underwent a transanal pull-through after the implantation of a transurethral cysto-ureterostomy. An unplanned intervention was the exploration and explantation of the drainage system.
+A total of five centres carried out this study. They were from Japan, Italy, France and Poland (CeSURO, University Hospital of Saarland in Homburg, Germany, University Hospital of Birmingham, University of Bari Medical School and Policlinico San Matteo of Pavia and Milan), with the results published by all the authors.<|im_end|>Table 1, Table 2 and Figure 3. This group included 15 patients treated. Three were girls and two boys; 13 years old and under. The mean age at the implantation of the catheter was 47 months (mean) and 40 months (maximum); the mean volume of urine during the implantation was 36 mL. There were three recurrences within one year following the explantation of the system, two of them following a transanal pull-through in the same patient.<|im_end|>One patient underwent a second transanal pull-through after the implantation of a transurethral stent. Two out of the five studies (CeSURO, Bari) were small (<10 patients), so this comparison could not be directly made. At the time that the evaluators began working on the literature, it was possible to find only two publications on the comparative effects of the transanal pull-through with regard to relapse (Table 3).
+Results of the transanal pull-through as an alternative to the transabdominal pull-through in the treatment of vesicoureteral reflux. In this table there are the data obtained when 15 patients have been treated according to CeSURO, Bari; in the last column there is the number of recurrence (R) and in the second column the number of new recurrent cases (NC)
+The studies performed by CeSURO and Bari with a retrospective analysis were performed during one and two years respectively. At the end of these studies, they concluded that the transanal pull-through procedure was effective as a second method in the treatment of VUR when compared with the transabdominal pull-through method. In CeSURO's study, they compared the transanal pull-through with a standard transurethral probe. In another study, CeSURO performed transurethral resection with and without a transurethral pull-through. <|im_end|>The third study carried out by CeSURO also compared the transurethral resection with the transurethral pull-through, but only when there was relapse; in contrast, this other study only compared transurethral resection with transurethral pull-through when relapse was absent. Both of these investigations are in support of the effectiveness of the transanal pull-through over the transurethral pull-through. In addition to these two investigations, <|im_end|>a second study was published: it compared the results between a transurethral pull-through with a transurethral cysto-ureterostomy, and showed similar results to the CeSURO group.
+At the time that the evaluators began working on the literature, CeSURO had performed a third study: that one conducted on 93 children. <|im_end|>The authors compared transural cystoplasty with transurethral cysto-ureterostomy in three groups.<|im_end|>. It was possible to observe an increase in the number of relapse when transural cystoplasty was performed before a transurethral cysto-ureterostomy. Transoral cysto-ureterostomy was
+
+### Question: Can tailored interventions increase mammography use among HMO women?
+### Final Decision: The effects of the intervention were most pronounced after the first intervention. Compared to usual care, telephone counseling seemed particularly effective at promoting change among nonadherent women, the group for whom the intervention was developed. These results suggest that telephone counseling, rather than tailored print, might be the preferred first-line intervention for getting nonadherent women on schedule for mammography screening. Many questions would have to be answered about why the tailored print intervention was not more powerful. Nevertheless, it is clear that additional interventions will be needed to maintain women's adherence to mammography. Medical Subject Headings (MeSH): mammography screening, telephone counseling, tailored print communications, barriers.
+### Model Prediction: <|im_start|>user
+Can tailored interventions increase mammography use among HMO women?<|im_end|>
+<|im_start|>assistant
+<|im_end|>
+<|im_start|>1.25
+</|im_start|>
+<|im_end|>1.400
+</|im_start|>
+<|im_end|>1.373
+</|im_start|>
+<|im_end|>1.308
+</|im_start|>
+<|im_end|>1.296
+</|im_start|>
+
+As an example, using this dataset:
+
+
+*
+
+*https://www.census.gov/programs-surveys/nhbs/data/profiles/profiles-by-topic/profiles.html
+the question "Can tailored interventions increase mammography use among HMO women?" can be asked as follows.
+
+Is there any evidence that tailored interventions such as a free mammogram in a physician office and/or patient/member assistance can increase mammography use among women who receive mammograms at least once per year by an average of 1.5 to 2 mammograms in the year before the tailored intervention ends (in contrast to control groups)?
+ Q: Pygame Drawing a circle I want to draw a circle on top of another pygame object but it doesn't appear on the screen at all.
+I have the following code:
+import pygame
+pygame.init()
+
+width = 400
+height=400
+bmp = pygame.image.load('images/img1.png')
+size=(width, height)
+bmp = pygame.transform.scale(bmp, size)
+bg = pygame.Surface((60, 60))
+bg.fill((1,1,1))
+for i in range(len(a)+1): #addition
+    if a[i] == ":" : #inserto
+        a[i]=False
+     b = pygame.draw.circle(bg,(255,(255,255),(a[i]+1)),  (i+1),1) #draw
+#this does not work
+#b = pygame.draw.circle(bg, (255,255,255)(a[i]+1), (i+1),1)
+#b = pygame.draw.circle(bg,(100,255,255,(int(a[i]))+1),(i+1))
+#b = pygame.draw.arc(bg,(100,255,255,(int(a[i]))+1), (210, 210, 120)) 
+
+while True:
+   for event in pygame.event.get():
+       if event.type == pygame.QUIT:
+           pygame.quit()
+          sys.exit()
+       bg.fill((255, 255, 255))
+       pg.display.update()
+
+
+A: b is the list with the circles and you just want a single circle, so you need to do something like:
+for i in range(len(a)):
+  if a[i] == ":" :
+    a[i] = False
+  b[i] = (int(a[i]) + 1)%255
+  b = pygame.draw.circle(bg,(255,(255,255),(b[i]+1)),  (i+1),1)
+
+and
+b = [ ( int(x) + 1) % 255 for x in range(64 ) ]
+
+This will just add up to one of the values in the list - 0 or 255 - that means the circle has no color and can then be drawn as a transparent circle.
+ Q: How to get the correct time zone from the current date using JavaScript Is there a way to get the current timezone using JavaScript? 
+I can detect the current locale with moment(). Locale.name() but how do I get the timezone that is associated with the locale? 
+
+A: This will return the actual timezone and not your locale
+var tz = new Date().getTimezoneOffset() // 37000
+console.log(tz)
+
+
+A: The date is always in your timezone unless set on a timezone other than the local system's local timezone. If your timezone name matches the browser's default time zone you could use moment.tz. The result of the latter is a time-of-
+
+### Question: Double balloon enteroscopy: is it efficacious and safe in a community setting?
+### Final Decision: DBE appears to be equally safe and effective when performed in the community setting as compared to a tertiary referral center with a comparable yield, efficacy, and complication rate.
+### Model Prediction: <|im_start|>user
+Double balloon enteroscopy: is it efficacious and safe in a community setting?<|im_end|>
+<|im_start|>assistant
+<|im_end|>pain relief
+Multiple enteroscopy: is it efficacious or safe when a single barium enema cannot provide adequate access into the small bowel?<|im_start|>
+<|im_end|>symptoms improvement
+<|im_start|>symptoms resolution
+Treatment of refractory colonic diverticulosis with polyethylene glycol. Improved diagnostic accuracy.<|im_start|>
+<|im_end|>symptom control
+Dose escalation with single-use balloons for multiple enteroscopy
+Implementation of a randomized controlled trial of balloon dilation versus flexible sigmoidoscopy to assess the safety and feasibility of use of single-use balloons for multiple enteroscopy.
+Randomized trial of balloon dilation for multiple enteroscopy vs Flexible Sigmoidoscopy (FIS): The Balloon Innovative Enteroscopy Study (BIESEC).
+Balloon Enteroscopy with a Single Use Balloon: Balloon Dilation (BAD) for Refractory Diverticular Disease.
+Factor analysis of multiple endoscopic scoring systems.
+A comparison of multiple endoscopic scoring systems: analysis of endoscopic data in patients with colorectal carcinoma and benign diseases.
+A single biliopancreatic limb to remove multiple diverticular pouches in patients with Crohn's disease: A single center report of 79 cases.
+Surgical treatment for multiple diverticular pouches in adults (double blind randomized study using a 20% ethanol diluted saline solution followed by biliopancreatic extraction).
+Diagnostic accuracy of percutaneous transhepatic cholangiography in the evaluation of multiple cholecystitis lesions: results from a randomised, controlled clinical trial.
+Efficacy of Percutaneous Transhepatic Cholangio-Pancreatic Diversion in Evaluating Multiple Cholestasis Lesions: An Endoscopy Resection Trial.
+Safety of balloon enteroscopy and endoscopic retrograde cholangiopancreatography in multiple diverticula.
+Critical and methodological issues related to the use of multiple endoscopic scoring systems.
+Assessment of efficacy of balloon enteroscopy as part of a comprehensive endoscopic management algorithm for patients with multiple diverticular pouches: A prospective comparative pilot study.
+An evaluation of the clinical impact of biliopancreatic limbs for the treatment of multiple diverticula. Sleepy Hollow (TV Series) Scooby Doo (TV Series)
+The Adventures of Jaguar Man (TV Series)
+Knightfall (TV Series)
+Monster Truck Masters (TV Series)
+Moonbase 3 (TV Series)
+Versus (TV Series)
+Killjoys (TV Series)
+Penn & Teller's Magic and Mystery Tour (TV Series)
+The Twilight Zone (TV Series)
+The Prisoner (TV Series)
+Ghost Hunters Academy (TV Series)
+Ghosts of Minecraft (TV Series)
+Lost Girl (TV Series)
+Nova (TV Series)
+Outback (TV Series)
+The Mick (TV Series)
+Outlander (TV Series)
+Major Crimes (TV Series)
+Into the Badlands (TV Series)
+Love Victor (TV Series)
+Hacking Milwaukee (TV Series)
+Dead To Me (TV Series)
+Law and Order True Crime: The Menendez Murders (TV Series)
+The Haunting of Bly Manor (TV Series)
+Grey's Anatomy (TV Series)
+NYPD Blue (TV Series)
+The Cool Kids (TV Series)
+The Simpsons (TV Series)
+Finding Your Roots (TV Series)
+Made In China (TV Series)
+Ducktales (TV Series)
+Supernatural (TV Series)
+Young Rock (TV Series)
+Orange Is the New Black (TV Series)
+Murderhead (TV Series)
+Irregular At Best (TV Series)
+Daisy Jones & the Six (TV Series)
+WandaVision (TV Series)
+Resident Alien (TV Series)
+All American (TV Series)
+Mare Of Easttown (TV Series)
+
+### Question: 30-Day and 1-year mortality in emergency general surgery laparotomies: an area of concern and need for improvement?
+### Final Decision: Emergency laparotomy carries a high rate of mortality, especially in those over the age of 70 years, and more needs to be done to improve outcomes, particularly in this group. This could involve increasing acute surgical care manpower, early recognition of patients requiring emergency surgery, development of clear management protocols for such patients or perhaps even considering centralisation of emergency surgical services to specialist centres with multidisciplinary teams involving emergency surgeons and care of the elderly physicians in hospital and related community outreach services for post-discharge care.
+### Model Prediction: <|im_start|>user
+30-Day and 1-year mortality in emergency general surgery laparotomies: an area of concern and need for improvement?<|im_end|>
+<|im_start|>assistant
+Cite this article as: Dewar K, Hutchinson G, McManus S. The cost of laparoscopic cholecystectomy. Emerg Med J 2018;35(4):270-271. doi: 10.1136/emermed-2017-206912
+We are not responsible for the content of external sites
+A 35 year old male presents with complaints of severe abdominal pain and a sudden rise in serum amylase levels... Scooby Doo's Ghost of Valentine's Episode
+Scooby Doo's Ghost Of Valentine's Episode - 2000-2001
+DVD-Ghosts2001108
+DVD-Tiny Toon Adventures2001
+12 episodes (115 minutes)
+The gang sets up at an old mansion that is filled with all kinds of ghouls and ghasts that are scary enough to give any young teenager nightmares! But before they can get to work, Scooby gets locked inside the old house. But luckily, he is able to open doors using his trusty device.
+Scooby and Shaggy are sent by Gracie to deliver a message that they must not forget about, even if it means risking their lives. Unfortunately, it's not what Shaggy and Scooby had imagined. Once they reach the old house, Scooby and Shaggy find themselves being chased by a creepy old man in a top hat that wants them dead because they stole some of his gold. But when you think you're going to die from old age or be burned alive, you get one shot!
+In a dark room at the house, Scooby is having a dream about a witch with black blood. Suddenly, an old woman comes running towards Scooby and grabs him by the neck. He is horrified but before he can figure out why she is holding him there, her hand suddenly goes numb and her head snaps back. Scooby and Shaggy are now locked outside in an empty building where they get to see the ghost of Valentine's Day that used to live here long ago. He reveals that there were two Valentines that went to hell together and each wanted to be together forever. Because of that, they would use gifts to make their wish come true like Scooby's and Shaggy's dog who died. One day, a dog had given his master a pig's heart instead of her own. The ghost tells how after the death of their master, the dogs went to hell too so they decided to stay here until they die in order to be together forever. That's why both Valentines could never get together. As for Scooby and Shaggy, they get trapped at the same time because they did not follow orders and tried to escape by walking through the broken glass door right on Valentine's Day. After that, the ghost turns into a ghoul who gets killed by Shaggy. However, the ghost gets sent back to the other world due to the evil that took over here.
+Shaggy is having an adventure in a haunted house at night and he almost trips on a ghost's skull that was hanging above a staircase. Then he accidentally spills all of his soda all over himself which he thinks he will have to wash later. Just then, Scooby gets knocked down from the first floor. The ghost appears behind Shaggy and tries to kill him but he just pushes the ghost away. Before the ghost disappears, Shaggy says "I just want to go home."
+At night, Scooby and Shaggy are at the old house where a group of kids are about to break in to steal some candles for a fire in their dormitory. They go inside the attic where the two friends discover that the ghost of Valentine is watching them while they sleep. But before they can leave the room, they notice that someone is watching them as well and realizes the ghost has followed them in their dream!
+Meanwhile, the three ghosts are about to attack Ginger and Babs when Scooby jumps into action, knocking the ghosts into one another. When Shaggy sees the ghosts being defeated, he too jumps to join in. A fight ensues between Scooby and the ghosts until one of the ghosts breaks free with his shoe.
+Scooby, Babs, Shaggy,
+
+### Question: Is adjustment for reporting heterogeneity necessary in sleep disorders?
+### Final Decision: Sleep disorders are common in the general adult population of Japan. Correction for reporting heterogeneity using anchoring vignettes is not a necessary tool for proper management of sleep and energy related problems among Japanese adults. Older age, gender differences in communicating sleep-related problems, the presence of multiple morbidities, and regular exercise should be the focus of policies and clinical practice to improve sleep and energy management in Japan.
+### Model Prediction: <|im_start|>user
+Is adjustment for reporting heterogeneity necessary in sleep disorders?<|im_end|>
+<|im_start|>assistant
+Has a patient or a caregiver or a family member who is unable to communicate and unable to give their consent as part of the clinical practice of a medical specialty. In the case of patients unable to communicate, only the patient should be involved in the informed consent process. In the case of caregivers or family members unable to communicate, these people can also give consent on behalf of that person, but they must still ensure that the patient or someone on their behalf, receives adequate information about the treatment and has a chance to speak freely without fear of being coerced by the treatment provider. In the case of a doctor inexperienced with a particular condition unable to obtain written informed consent, it may be reasonable for them to rely upon the consent form or consent statement provided by someone trained to provide this service. This is often the case when the doctor has no special training in the particular subject being treated (e.g., psychiatry) or does not have experience or training in a particular disease or symptom (e.g., diabetes).<br /><br /><strong><em>Evidence summary for this indicator</em></strong><br /> <u>Recommended practice</u> and <u>Not recommended practice</u>: In most situations, no specific action needs to be taken other than following existing evidence-based policy regarding the conduct of clinical trials. If consent for the use of research results is required and/or the treatment will be performed in a context where there are significant risks associated with non-compliance, then an appropriate intervention should be undertaken to educate and remind the participant before or after participation. The appropriate interventions and approaches vary depending on the study setting and the risks associated with non-participation and non-compliance.<br /><br /><em>Informed consent, informed decision-making and patient autonomy</em><br /> <ul> <li>Several approaches for providing appropriate information and consent for studies in this area are available through international health regulations, national guidelines, institutional ethics committees and training curricula.</li> <li>The information should include the importance of participating, its consequences and how the potential benefits and harms compare to the burden of participation.</li> <li>Patients should be given an opportunity to understand all aspects of the trial including the possible risks to them, and should be free to leave if they decide they want to opt out of participation in the study.</li> </ul>
+<strong><u>Recommended practice: </u></strong> In most situations, no specific action needs to be taken other than following existing evidence-based policy regarding the conduct of clinical trials. <br /> <br />Informed consent, informed decision-making and patient autonomy<br /> <em>Prospective treatment allocation</em><br /> <ul> <li>If it is possible for participants to choose from alternative treatments or experimental options or receive an opportunity to discuss treatments, then consideration should be given to such opportunities, including a description of the potential benefits and harms of different treatment(s), before agreeing to take part in the study.</li> <li>If patients have difficulty understanding the purpose of the research, the researchers should provide explanations to allow them to make an informed decision about whether to participate. These explanations could include details of the information presented during the informed consent process (including the importance of participating, its consequences and how the potential benefits and harms compare to the burden of participation.) If necessary, additional information could be provided at subsequent visits. For example, if a patient is worried about not receiving any treatment and is unable to say which treatment he/she would prefer (for example because he/she feels that none of the potential treatments offer any benefit), explanatory materials could explain the options and potential treatments in more detail (as needed) prior to his/her next visit.</li> </ul> <ul> <li>If the risk of participating is high enough (for example, because it is a very poor quality of life and/or because of other significant personal characteristics, such as age) then treatment should not be given unless there is some other suitable way to help them, for example providing a nursing home place or some other assistance. Informed consent should not be withheld because of a lack of capacity to consent.</li> <li>For treatments to be considered potentially harmful, the level of harm should be clearly defined; for example, it is likely that a potential hazardous substance can cause serious long term adverse effects if used in the wrong way. </li> <li>If the risk of participating is lower than the risk posed by the harmfulness of the treatment,
+
+### Question: Do mutations causing low HDL-C promote increased carotid intima-media thickness?
+### Final Decision: Genetic variants identified in the present study may be insufficient to promote early carotid atherosclerosis.
+### Model Prediction: <|im_start|>user
+Do mutations causing low HDL-C promote increased carotid intima-media thickness?<|im_end|>
+<|im_start|>assistant
+Do genetic variants associated with atherosclerosis influence their effects on blood lipid profiles? 120
+<|im_end|> 2020 BMW 3 Series Touring Review – Is It The Perfect Grand Tourer?
+by Dylan Long / Comments
+Another example of the best that German automakers can offer.
+When you're the second biggest car maker in the world, every decision you make is big business. Even a small mistake could potentially lead to a whole lot of trouble down the line if it is perceived by consumers as a mistake. That's why automaker's like BMW have invested in research and development so they can anticipate what the consumer might need from them.
+That's not to say the consumer's needs are always well considered, however; it just means that the company's executives have the wherewithal to develop products that address those needs. This goes double when dealing with the car market's biggest nameplates. Everyone has seen and probably even sat in the outgoing version of the BMW 3 series over the last few decades, but let's look at how BMW has kept it fresh enough for modern tastes and then bring the new one up to speed again.
+This isn't the first time we've looked at an all-new model coming off the assembly lines in Munich. This was the seventh iteration of the 3 series, following four generations of sedan. And it may end up being the final one in this particular form, which makes the launch interesting considering this is the last generation of the 3 series to be developed alongside the 7 series. Both the 7 series and 8 series use similar architecture for the BMW 3 series, meaning that many components can be shared between both cars. For the 3 series, those components include the suspension, engine and most major interior pieces including the dashboard. As such, many of these components have also been updated for the new car. We reviewed the current model of the 3 series and, while it wasn't quite perfect, it was a solid vehicle, delivering exactly what it set out to do: be a daily driver and a long-term investment.
+More on the BMW 3 Series
+The All New BMW M2 Competition Was Made To Win
+This BMW 3 Series Sedan Is A Great Crossover Option In The Midst Of So Many Hybrids
+When it comes to the all-new 3 series, we'll find out whether or not BMW has delivered a vehicle worthy of its name. But it would certainly help if the next-gen version of the 3 series felt more like other products from the Bavarian automaker. That will only happen if they move away from traditional European cues and adopt the latest German design language, which has already begun showing itself here and there in other Bimmer models. And it won't happen fast enough given the number of customers who still prefer their vehicles to be as attractive as possible. The styling language is still evolving, so perhaps there's a better way than what we saw on the current 3 series. We'll see how things play out over the coming years.
+Tags: #BMW #Car Tech #Review #Ride Quality #Sports Cars
+BMW 3 Series Sedan
+Used BMW 3 Series For Sale
+Best Luxury Large Car Tires
+2021 Volvo XC90 Test Drive Review: Still An Odd Man Out
+2021 Cadillac Escalade Test Drive Review: A Luxurious Limo
+2020 Porsche Panamera Turbo S Test Drive Review: Exponential Impressions
+2020 Mercedes-AMG GLC 43 First Look Review: The New Super Duty
+2020 Genesis GV80 First Drive Review: A New Generation Begins
+We think the luxury SUV is finally ready to shine. MONETARY AND FISCAL POLICY IN NIGERIA: An examination of the impact of the financial sector on inflation and price level
+Dipo Afolabi
+The Nigerian economy has continued to face challenges in its ability to provide quality services at affordable prices without necessarily facing pressure from inflationary pressures. Although, the Federal Government in view of its policy on fiscal consolidation in the face of rising debt levels had announced to the country a 4% adjustment in gross domestic product (GDP) estimates for the year under consideration in order to ensure that the Nigeria economy is able to stand and make a better future after the country experiences a hard time dealing with the Coron
+
+### Question: A short stay or 23-hour ward in a general and academic children's hospital: are they effective?
+### Final Decision: This data demonstrates the robust nature of the short stay ward. At these two very different institutions we have shown improved bed efficient and patient care in a cost-effective way. We have also reported on greater parental satisfaction and early return of the child with their family to the community.
+### Model Prediction: <|im_start|>user
+A short stay or 23-hour ward in a general and academic children's hospital: are they effective?<|im_end|>
+<|im_start|>assistant
+<|im_start|>lecturer
+<|im_end|>clinical fellow
+A long-stay residential or psychiatric ward in an institution, which includes at least the following:
+Such a ward is often for longer periods than inpatient care at home. If the hospital is too small to provide this level of care, such a ward could be located on campus and linked by a secure corridor from the emergency department.<|im_end|></|
+A short-stay unit within a hospital dedicated exclusively to psychiatry, including such services as intravenous sedation, electroshock therapy, and involuntary admission of patients for treatment and observation.
+An in-house rehabilitation center. It may include specialized physical, occupational, and speech therapies. These services usually begin in conjunction with inpatient psychiatric care, but if needed, may continue beyond discharge.
+<|im_start|>discharge
+The process of returning home after being discharged from a hospital. This term typically refers only to those leaving a hospital after receiving medical treatment that is not psychiatric in nature, since the purpose of most outpatient hospitals is to provide short-term or follow-up care after an episode of acute mental illness.
+Discharge of a patient who has received inpatient treatment for acute mania or hypomania, who will require intensive outpatient treatment for a longer period (up to 6 months) following discharge to continue to receive adequate treatment to prevent relapse of manic symptoms.
+Discharge of a patient who has received inpatient treatment for major depressive disorder, who will require at least a 7-day partial hospitalization program and intensive outpatient treatment for a longer period (up to 1 year) to continue to receive adequate treatment to prevent relapse.
+A process of returning to the community under the care of family members, friends, clergy, religious leaders, social workers, or other members of the family, if necessary to improve outcomes of the patient, for reasons of family, social, or economic well-being. If there are substantial and serious concerns regarding the potential danger to self or others, there must be an attempt to get to a lower risk level before being returned home.
+A special hospital facility dedicated to a unique and limited range of services, which includes, among other things, adolescent psychiatric inpatient units.<|im_end|></|
+Any place, within the community, where a patient lives permanently after discharge from an inpatient psychiatric hospital; a place where the patient does not work or have regular employment; a place where the patient does not attend school; and a place where the patient has some independent means of transportation.
+<|im_start|>fellowship
+A formal training program consisting of supervised experience in a particular field of medical or health care practice, for example, internal medicine residency, obstetrics/gynaecology residency, or geriatrics residency.<|im_end|></|
+A medical program offered in an undergraduate curriculum designed to increase exposure and knowledge of psychiatry topics.
+<|im_start|>forced discharge
+Returning a person to the community without the option of continued residential placement because it is believed that there is no available place for her in the community, even though alternative housing might be available or her condition can safely be managed outside the hospital.
+<|im_start|>home
+The home of the individual with a primary diagnosis of schizophrenia, which includes both the private residence and any communal, common, or group living arrangement (e.g., board and lodging, an inmate or guest house), whether owned or rented, with or without other people, and whether paid or unpaid.<|im_end|></|
+Hospice: A system of care for terminally ill patients whose disease, illness, or other causes of death result in protracted, chronic symptom management rather than immediate relief, whether painful or not. The end of life phase of hospice care may vary based on local laws and standards.<|im_end|></|
+<|im_start|>hospital
+A licensed, government-operated building used for the medical care of persons. It may or may not be staffed with licensed physicians, nurse practitioners, clinical psychologists, or other licensed providers.
+<|im_start|>hospitalization
+A period during which a patient receives treatment that is directed by the att
+
+### Question: Did Chile's traffic law reform push police enforcement?
+### Final Decision: Findings suggest that traffic law reforms in order to have an effect on both traffic fatality and injury rates reduction require changes in police enforcement practices. Last, this case also illustrates how the diffusion of successful road safety practices globally promoted by WHO and World Bank can be an important influence for enhancing national road safety practices.
+### Model Prediction: <|im_start|>user
+Did Chile's traffic law reform push police enforcement?<|im_end|>
+<|im_start|>assistant
+<|im_end|>
+<|im_start|>miguel
+<|im_end|>
+<|im_start|>
+<|im_end|>
+<|im_start|>froggy
+<|im_end|>
+<|im_start|>
+<|im_end|>mario
+<|im_start|>maria
+<|im_end|>
+ package com.github.dante62.gwtjavascala.client;
+
+public interface SyncCallback {
+  void onSuccess();
+}
+ using System;
+using Newtonsoft.Json;
+
+namespace Nutrience.Brokers.Models
+{
+    public class TbClientStatus : ClientBase
+    {
+        [JsonProperty("error")]
+        public string Error { get; set; }
+        [JsonProperty("version")]
+        public string Version { get; set; }
+    }
+} <script>
+var page_title = "{{ page_title }}"
+var page_description = "{{ page_description }}"
+</script>
+{% if request.META.secure %}
+<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/145908/favicon.ico" type="image/x-icon"></script>
+<link rel="shortcut icon" href="/static/img/favicon.ico">
+<link rel="alternate logo" href="/static/img/logo.png" alt="" />
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.2/css/bootstrap.min.css">
+<style>
+div[data-container] { display: none!important; }
+
+#app-header.nav-collapse #container,
+#app-footer.nav-collapse #container { display: inline!important; }
+
+body.app { font-family: Roboto Mono, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 200; font-size: 16px; }
+
+@media (max-width: 600px) { body.app { padding-left: 2em; padding-right: 2em; }
+	.main-heading a,
+	.main-heading p { text-align: center; margin: 0 1em; }
+	.main-content,
+	.page-footer { display: block; position: relative; width: 100%; height: 100%; padding: 2em; background-color: rgba(42, 116, 177, 0.7); border-radius: 5px; }
+	.main-content { border-top-width: 0;}
+	.main-content.expanded { left: -1em; top: -1em; }
+	#app-container { display: none; }
+	.navbar >.container.navbar-brand,
+	.navbar-inverse.navbar-text,
+	.navbar-fixed-bottom.navbar-inner { text-shadow: none!important; margin-top: 0; }
+	.main-footer,
+	footer,
+	.pagination { border: 0; }
+	.container-fluid.panel-heading,
+	.container-fluid.collapsible-body h3,
+	#app-body.collapsible-body h3,
+	h4,
+	#app-menu > ul.list-unstyled > li.active { color: #fff; border: none; }
+	.header { margin-bottom: 0; }
+}
+@media (max-width: 480px) and (orientation: landscape) { #app-container { display: block; }
+	body.app { font-family: monospace; }
+	p.small,
+	.main-foot,
+	.pagination { line-height: 1.4; }
+	a.btn { font-size: 1em; }
+	table { font-size: 1em; }
+	.nav.pull-right,
+	.tab { border-top-width: 1px!important; margin-top: 1em; margin-bottom: 0; }
+	.nav.pull-right { border-top: 0; }
+
